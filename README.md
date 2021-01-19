@@ -81,3 +81,10 @@ False positive scenario: `12315188888888123`, it will match `15188888888`, but t
 The mobile phone number required to be matched cannot be a number from 0-9.
 
 
+# 404StarLink 2.0 - Galaxy
+
+![](https://github.com/knownsec/404StarLink-Project/raw/master/logo.png)
+
+HaE 是 404Team [星链计划2.0](https://github.com/knownsec/404StarLink2.0-Galaxy)中的一环，如果对HaE 有任何疑问又或是想要找小伙伴交流，可以参考星链计划的加群方式。
+
+- [https://github.com/knownsec/404StarLink2.0-Galaxy#community](https://github.com/knownsec/404StarLink2.0-Galaxy#community)
